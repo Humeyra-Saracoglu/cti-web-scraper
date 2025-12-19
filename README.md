@@ -146,8 +146,6 @@ cti-web-scraper/
 ├── go.mod                     # Go modül tanımları
 ├── go.sum                     # Bağımlılık checksumları  
 ├── README.md                  # Bu dosya
-├── docs/                      # Dokümantasyon
-│   └── project-report.pdf     # Detaylı proje raporu
 ├── examples/                  # Örnek kullanımlar
 │   └── sample-outputs/        # Örnek çıktı dosyaları
 └── .gitignore                 # Git ignore kuralları
