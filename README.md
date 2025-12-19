@@ -136,8 +136,6 @@ Program 15 farklı kategori ve 150+ web sitesi üzerinde test edilmiştir:
 - **Açık Veri**: data.gov, data.europa.eu, Kaggle
 - **E-ticaret**: Trendyol, Amazon, Mastodon
 
-Detaylı test sonuçları için [proje raporu](docs/project-report.pdf) dosyasına bakın.
-
 ## 📁 Proje Yapısı
 
 ```
